@@ -9,8 +9,8 @@
 ## Table of contents
 
   - [Link](#link)
-  - [Tecnologías usadas](#tecnologias-usadas)
-  - [Recursos útiles](#recursos-utiles)
+  - [Tecnologías usadas](#tecnologías-usadas)
+  - [Recursos útiles](#recursos-útiles)
 
 
 ### Screenshot
